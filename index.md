@@ -2,6 +2,8 @@
 
 **Effective date:** August 14, 2026
 
+**Read our [Terms of Service](terms.html).**
+
 This Privacy Policy explains how **Advertise With Lumie** ("Lumie", "we", "us")
 collects, uses, shares, and protects personal information when you use the
 Lumie mobile application, website, and services (together, the "Services").
